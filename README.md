@@ -1,6 +1,4 @@
-### MoonMeet-Website
-
-<p align="center">
+### MoonMeet - Website
 
 <img src="https://img.shields.io/github/contributors/MoonMeet/MoonMeet-Website" />
 <img src="https://img.shields.io/github/last-commit/MoonMeet/MoonMeet-Website" />
@@ -9,7 +7,6 @@
 <img  src="https://img.shields.io/github/issues/MoonMeet/MoonMeet-Website?color=0088ff" />
 <img  src="https://img.shields.io/github/issues-pr/MoonMeet/MoonMeet-Website?color=0088ff?color=0088ff" />
 
-</p>
 - A new era of chatting and meeting people.
 
 ### Description
