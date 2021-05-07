@@ -49,10 +49,6 @@ Thanks, they help to keep **Moon Meet** alive. It's better to have multiple peop
 - [Facebook](https://www.facebook.com/moonmeet.inc)
 - [Telegram](https://t.me/MoonMeet)
 
-### Special Thanks
-- [Telegram](https://github.com/DrKLO/Telegram)
-- [AXEmojiView](https://github.com/Aghajari/AXEmojiView)
-
 ### License
    ```
    Moon Meet Website Copyright(C) 2021 AzizBecha.
