@@ -40,3 +40,32 @@ And that summarized:
  - `fix: Fix story not showing in some browsers`
  - `refactor: Reformat code at File.*`
  - ...
+
+### Thanks for contributing
+Thanks, they help to keep **Moon Meet** alive. It's better to have multiple people work on a project, for more ideas, less bugs
+(sadly sometimes more), and generally quicker development. Each (helpful) contribution that gets thankfully accepted.
+
+### Social
+- [Facebook](https://www.facebook.com/moonmeet.inc)
+- [Telegram](https://t.me/MoonMeet)
+
+### Special Thanks
+- [Telegram](https://github.com/DrKLO/Telegram)
+- [AXEmojiView](https://github.com/Aghajari/AXEmojiView)
+
+### License
+   ```
+   Moon Meet Website Copyright(C) 2021 AzizBecha.
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License.
+
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License along
+   with this program; if not, write to the Free Software Foundation, Inc.,
+   51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+   ```
