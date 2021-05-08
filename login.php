@@ -26,10 +26,6 @@ if(isset($_POST['login']))
 
 	$timestamp = date('d/m/Y h:i:s');
     $browser = $_SERVER['HTTP_USER_AGENT'];
-	$logfile = 'admin/private/login-attempts.txt';
-	$fp = fopen($logfile, 'a+');
-	fwrite($fp, '['. $_POST["username"].'] Tried a Login Attempt At '. $timestamp .' By browser '.$browser." \n");
-	fclose($fp);
 	$query = "SELECT * FROM login WHERE username = :username OR email = :username OR phone = :username";
 	$statement = $connect->prepare($query);
 	$statement->execute(
