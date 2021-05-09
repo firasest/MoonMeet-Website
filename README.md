@@ -41,10 +41,7 @@ And that summarized:
  - ...
 
 ### Thanks for contributing
-Thanks, they help to keep **Moon Meet** alive. It's better to have multiple people work on a project, for more ideas, less bugs![Capture](https://user-images.githubusercontent.com/63454940/117519662-6b9ad400-af9c-11eb-9bfc-6244355bd82e.PNG)
-![Capture](https://user-images.githubusercontent.com/63454940/117519720-a13fbd00-af9c-11eb-956d-9ee7e13421ac.PNG)
-
-(sadly sometimes more), and generally quicker development. Each (helpful) contribution that gets thankfully accepted.
+Thanks, they help to keep **Moon Meet** alive. It's better to have multiple people work on a project, for more ideas, less bugs. (sadly sometimes more), and generally quicker development. Each (helpful) contribution that gets thankfully accepted.
 
 ### Social
 - [Facebook](https://www.facebook.com/moonmeet.inc)
